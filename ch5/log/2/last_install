@@ -1,0 +1,14 @@
+@/cache/recovery/block.map
+1
+time_total: 416
+retry: 0
+target_build: 8.1.094.PX.180817.360OS_360OS_QK1803_CN
+source_build: 8.1.081.PX.180625.360OS_360OS_QK1803_CN
+bytes_written_system: 2441457664
+bytes_stashed_system: 1202954240
+bytes_written_vendor: 582430720
+bytes_stashed_vendor: 459476992
+uncrypt_time: 0
+temperature_start: 37000
+temperature_end: 37000
+temperature_max: 37000
